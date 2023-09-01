@@ -8,7 +8,7 @@ I'm a web designer and front-end developer with a passion for building beautiful
 
 In my free time, I enjoy exploring new technologies, reading tech blogs, and contributing to open source projects on GitHub.
 
-Feel free to connect with me on my social media profiles above!
+Feel free to connect with me on my social media profiles below!
 
 ### Connect with Me
 
