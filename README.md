@@ -1,8 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-=============================================================================================================================================
 
-Software Engineer
------------------
 
 I am Mohamed Yoosuf Athil , I am currently pursuing a degree in Computing and Information Systems and am in my third year. I am passionate about getting practical experience as a software engineer and am actively seeking an internship opportunity to gain hands-on experience in the field.
 
